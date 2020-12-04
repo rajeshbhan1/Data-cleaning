@@ -1,0 +1,81 @@
+,id,airport_type,iso_region,municipality,continent,local_code,coordinates,IATA,ICAO,Airport_name,Location,Gps
+0,116,small_airport,SB-WE,,OC,,"157.14300537109375, -8.12639045715332",RIN,AGRC,Ringi Cove Airport,none,"8° 11' 59"" South, 157° 1' 59"" E"
+1,204,closed,US-TX,,,,"-97.6997852325, 30.2987223546",AUS,KAUS,Austin–Bergstrom International Airport,['Greater Austin'],30.19444°N 97.67000°W
+2,2805,large_airport,US-TX,,,AUS,"-97.6698989868164, 30.194499969482422",AUS,KAUS,Austin–Bergstrom International Airport,['Greater Austin'],30.19444°N 97.67000°W
+3,248,small_airport,PG-WPD,,OC,,"141.28199768066406, -6.1257100105285645",UNG,AYKI,Kiunga Airport,none,6.125667°S 141.282000°E
+4,290,large_airport,PG-NCD,,OC,,"147.22000122070312, -9.443380355834961",POM,AYPY,Port Moresby International Airport,"['Sarnonea', ' Port Moresby']",9.44333°S 147.22000°E
+5,307,small_airport,PG-WPD,,OC,,"141.225998, -5.27861",TBG,AYTB,Moro Airport,none,5.27861°S 141.22583°E
+6,423,small_airport,IS-3,,EU,,"-23.8230991364, 64.9113998413",OLI,BIRF,Rif Airport,none,64.91111°N 23.81667°W
+7,625,small_airport,CN-32,,AS,,"120.975997925, 32.0708007812",NTG,ZSNT,Nantong Xingdong International Airport,['ZSNTLocation of airport in Jiangsu'],32.07083°N 120.97556°E
+8,720,large_airport,CA-AB,,,CYEG,"-113.580001831, 53.309700012200004",YEG,CYEG,Edmonton International Airport,"['Edmonton Metropolitan Region', ' Alberta']",53.31000°N 113.57944°W
+9,770,large_airport,CA-NS,,,,"-63.5085983276, 44.8807983398",YHZ,CYHZ,Halifax Stanfield International Airport,"['Halifax', ' Nova Scotia']",44.87972°N 63.51028°W
+10,838,large_airport,CA-ON,,,YOW,"-75.66919708251953, 45.3224983215332",YOW,CYOW,Ottawa Macdonald–Cartier International Airport,['Ottawa–Gatineau'],45.32250°N 75.66722°W
+11,913,large_airport,CA-QC,,,YUL,"-73.7407989502, 45.4706001282",YUL,CYUL,Montréal–Trudeau International Airport,['Greater Montreal'],45.47056°N 73.74083°W
+12,926,large_airport,CA-BC,,,,"-123.183998108, 49.193901062",YVR,CYVR,Vancouver International AirportAéroport international de Vancouver,['Metro Vancouver'],49.19472°N 123.18389°W
+13,931,large_airport,CA-MB,,,YWG,"-97.2398986816, 49.909999847399995",YWG,CYWG,Winnipeg James Armstrong Richardson International Airport,"['Winnipeg', ' Manitoba']",49.91000°N 97.24000°W
+14,957,large_airport,CA-AB,,,,"-114.019996643, 51.113899231",YYC,CYYC,YYC Calgary International AirportAéroport international de Calgary YYC,"['Calgary', ' Alberta', ' Canada']",51.12250°N 114.01333°W
+15,963,large_airport,CA-BC,,,,"-123.426002502, 48.646900177",YYJ,CYYJ,Victoria International Airport,"['Victoria', ' British Columbia']",48.64722°N 123.42583°W
+16,969,large_airport,CA-NL,,,,"-52.7518997192, 47.618598938",YYT,CYYT,St. John's International Airport,"[""St. John's"", ' Newfoundland and Labrador']",47.61861°N 52.75250°W
+17,973,large_airport,CA-ON,,,YYZ,"-79.63059997559999, 43.6772003174",YYZ,CYYZ,Lester B. Pearson International AirportAéroport international de Lester B. Pearson,['Greater Toronto'],43.67667°N 79.63056°W
+18,1061,small_airport,DZ-22,,AF,,"-0.593275010586, 35.1717987061",BFW,DAOS,Sidi Bel Abbès Airport,['BFWLocation of the airport in Algeria'],35.17222°N 0.59472°W
+19,1100,small_airport,BF-SIS,,AF,,"-2.0999999046325684, 11.100000381469727",XLU,DFCL,Leo Airport,none,11.105417°N 2.101611°W
+20,1101,small_airport,BF-NAO,,AF,,"-1.149999976158142, 11.149999618530273",PUP,DFCP,Pô Airport,none,11.179139°N 1.148472°W
+21,1232,large_airport,DE-BR,,EU,,"13.5225, 52.380001",SXF,"EDDB, ETBS",Berlin Schönefeld Airport,['Schönefeld'],52.37861°N 13.52056°E
+22,1175,large_airport,NG-LA,,AF,,"3.321160078048706, 6.5773701667785645",LOS,DNMM,Murtala Muhammed International Airport,['\nAero Contractors\nArik Air\nAzman Air\nMed-View Airline\nAir Peace\nDana Air\nIbom Air\n'],6.57722°N 3.32111°E
+23,1211,large_airport,BE-BRU,,EU,,"4.48443984985, 50.901401519800004",BRU,EBBR,Brussels Airport,"['Zaventem', ' Flemish Brabant', ' Belgium']",50.90139°N 4.48444°E
+24,1212,large_airport,BE-WHT,,EU,,"4.45382, 50.459202",CRL,EBCI,Brussels South Charleroi Airport,"['Charleroi', ' Hainaut']",50.46000°N 4.45278°E
+25,1235,large_airport,DE-HE,,EU,,"8.570556, 50.033333",FRA,EDDF,Frankfurt Airport,"['Near Kelsterbach', ' Frankfurt']",50.03333°N 8.57056°E
+26,1241,large_airport,DE-BY,,EU,,"11.7861, 48.353802",MUC,EDDM,Munich Airport,"['Munich', ' Germany']",48.35389°N 11.78611°E
+27,8346,closed,DE-BY,,EU,,"11.69029999, 48.137798309",MUC,EDDM,Munich Airport,"['Munich', ' Germany']",48.35389°N 11.78611°E
+28,1243,large_airport,DE-SN,,EU,,"12.236389, 51.423889",LEJ,EDDP,Leipzig/Halle Airport,['Leipzig and Halle'],51.42389°N 12.23639°E
+29,1245,large_airport,DE-BW,,EU,,"9.22196006775, 48.689899444599995",STR,EDDS,Stuttgart Airport,['Eurowings'],48.69000°N 9.22194°E
+30,1246,large_airport,DE-BE,,EU,,"13.2877, 52.5597",TXL,EDDT,Berlin Tegel Airport,"['Reinickendorf borough', ' Berlin', ' Germany']",52.55972°N 13.28778°E
+31,1247,large_airport,DE-NI,,EU,,"9.685079574580001, 52.461101532",HAJ,EDDV,Hannover Airport,['Langenhnoneen'],52.46083°N 9.68500°E
+32,1278,large_airport,DE-BW,,EU,,"8.08049964905, 48.7793998718",FKB,EDSB,Karlsruhe/Baden-Baden Airport,['Ryanair'],48.77944°N 8.08056°E
+33,1311,large_airport,FI-ES,,EU,,"24.963300704956, 60.317199707031",HEL,EFHK,Helsinki-Vantaa Airport,['Vantaa'],60.31722°N 24.96333°E
+34,1352,large_airport,GB-ENG,,EU,,"-2.2749500274658203, 53.35369873046875",MAN,EGCC,Manchester Airport,['Greater Manchester'],53.35389°N 2.27500°W
+35,1371,large_airport,GB-WLS,,EU,,"-3.343329906463623, 51.39670181274414",CWL,EGFF,Cardiff Airport,['Cardiff'],51.39667°N 3.34333°W
+36,1374,large_airport,GB-ENG,,EU,,"-2.849720001220703, 53.33359909057617",LPL,EGGP,Liverpool John Lennon Airport,"['Liverpool', ' England', ' UK']",53.33361°N 2.84972°W
+37,1375,large_airport,GB-ENG,,EU,,"-0.36833301186561584, 51.874698638916016",LTN,EGGW,London Luton Airport,"['London', ' United Kingdom']",51.87472°N 0.36833°W
+38,1379,large_airport,GB-ENG,,EU,,"-1.8424999713897705, 50.779998779296875",BOH,EGHH,Bournemouth Airport,"['Hurn', ' Dorset']",50.78000°N 1.84250°W
+39,1391,large_airport,GB-ENG,,EU,,"-0.190278, 51.148102",LGW,EGKK,Gatwick Airport,"['Crawley', ' England', ' UK']",51.14806°N 0.19028°W
+40,1397,large_airport,GB-ENG,,EU,,"-0.461941, 51.4706",LHR,EGLL,Heathrow Airport,['London'],51.47750°N 0.46139°W
+41,1417,large_airport,GB-SCT,,EU,,"-2.197779893875122, 57.201900482177734",ABZ,EGPD,Aberdeen International Airport,['Aberdeen'],57.20250°N 2.19806°W
+42,1420,large_airport,GB-SCT,,EU,,"-3.372499942779541, 55.95000076293945",EDI,EGPH,Edinburgh Airport,['Edinburgh'],55.95000°N 3.37250°W
+43,1436,large_airport,GB-ENG,,EU,,"0.234999999404, 51.8849983215",STN,EGSS,London Stansted Airport,['London and the East of England'],51.88500°N 0.23500°E
+44,1439,large_airport,GB-ENG,,EU,,"-3.4138898849487305, 50.73440170288086",EXT,EGTE,Exeter Airport,"['Clyst Honiton', ' Devon']",50.73444°N 3.41389°W
+45,1442,small_airport,GB-ENG,,EU,,"0.5033329725265503, 51.351898193359375",RCS,EGTO,Rochester Airport,['www.rochesterairport.co.uk'],51.35194°N 0.50278°E
+46,1464,large_airport,NL-NH,,EU,,"4.76389, 52.308601",AMS,EHAM,Amsterdam Airport Schiphol,"['Haarlemmermeer', ' North Holland']",52.30806°N 4.76417°E
+47,1466,large_airport,NL-NB,,EU,,"5.37452983856, 51.4500999451",EIN,EHEH,Eindhoven Airport,"['Eindhoven', ' Netherlands']",51.45000°N 5.37444°E
+48,1479,small_airport,IE-G,,EU,,"-9.467780113220215, 53.23030090332031",NNR,EICA,Connemara Airport,['70\xa0ft / 21\xa0m'],53.23056°N 9.46778°W
+49,1484,large_airport,IE-D,,EU,,"-6.27007, 53.421299",DUB,EIDW,Dublin Airport,"['Dublin', ' Ireland']",53.42139°N 6.27000°W
+50,1492,large_airport,IE-CE,,EU,,"-8.92482, 52.702",SNN,EINN,Shannon Airport,"['Mid-West Region', ' Ireland']",52.70194°N 8.92472°W
+51,1499,large_airport,DK-84,,EU,,"12.656000137329, 55.617900848389",CPH,EKCH,"Copenhnoneen Airport, Kastrup","['Kastrup', ' Tårnby', ' Copenhnoneen', ' Denmark']",55.61806°N 12.65611°E
+52,1522,large_airport,NO-18,,EU,,"14.365300178527832, 67.26920318603516",BOO,ENBO,Bodø Airport,['Bodø'],67.26917°N 14.36528°E
+53,1523,large_airport,NO-12,,EU,,"5.218140125, 60.29339981",BGO,ENBR,"Bergen Airport, Flesland","['Flesland', ' Bergen', ' Vestland']",60.29361°N 5.21806°E
+54,1533,large_airport,NO-02,,EU,,"11.100399971008, 60.193901062012",OSL,ENGM,Oslo Airport,"['Gardermoen', ' Ullensaker', ' Viken']",60.20278°N 11.08389°E
+55,1569,large_airport,NO-19,,EU,,"18.918899536132812, 69.68329620361328",TOS,ENTC,"Tromsø Airport, Langnes","['Langnes', ' Tromsøya', ' Tromsø']",69.68139°N 18.91778°E
+56,1574,large_airport,NO-11,,EU,,"5.6377801895, 58.876701354",SVG,ENZV,"Stavanger Airport, Sola","['Sola', ' Rogaland']",58.87667°N 5.63778°E
+57,1632,large_airport,SE-AB,,EU,,"17.918600082397, 59.651901245117",ARN,ESSA,Stockholm Arlanda Airport,"['Sigtuna Municipality', ' Sweden']",59.65194°N 17.91861°E
+58,1667,large_airport,LV-RIX,,EU,,"23.971099853515625, 56.92359924316406",RIX,EVRA,Riga International Airport,"['Riga', ' Latvia']",56.92361°N 23.97111°E
+59,1676,large_airport,LT-VL,,EU,,"25.285801, 54.634102",VNO,EYVI,Vilnius International Airport,"['Vilnius', ' Lithuania']",54.63694°N 25.28778°E
+60,1888,large_airport,MG-T,,AF,,"47.478802, -18.7969",TNR,FMMI,Ivato International Airport,"['4', '198\xa0ft / 1', '280\xa0m']",18.79694°S 47.47889°E
+61,1966,small_airport,AO-MOX,,AF,,"22.23110008239746, -10.715800285339355",UAL,FNUA,Villa Teixeira de Sousa Airport,none,10.71528°S 22.23056°E
+62,2011,large_airport,MZ-MPM,,AF,,"32.572601, -25.920799",MPM,FQMA,Maputo International Airport,['\nLAM Mozambique Airlines\nMoçambique Expresso\n'],25.92083°S 32.57250°E
+63,2040,small_airport,TD-LC,,AF,,"14.739399909973145, 13.443300247192383",OTC,FTTL,Bol-Berim Airport,none,13.443528°N 14.739250°E
+64,2068,small_airport,MW-LK,,AF,,"34.737222, -12.075833",LIX,FWLK,Likoma Airport,['www.visitlikomaisland.com'],12.07583°S 34.73722°E
+65,2070,small_airport,MW-MG,,AF,,"34.9197006226, -14.083600044299999",MYZ,FWMY,Monkey Bay Airport,['FWMYLocation of the airport in Malawi'],14.08333°S 34.91972°E
+66,2161,small_airport,CD-KA,,AF,,"29.783000946044922, -7.066999912261963",BDV,FZRB,Moba Airport,['BDVLocation of the airport in Democratic Republic of the Congo'],7.08472°S 29.73750°E
+67,2257,large_airport,MA-CAS,,AF,,"-7.589970111846924, 33.36750030517578",CMN,GMMN,Mohammed V International Airport,['\nAir Arabia Maroc\nRoyal Air Maroc\nRoyal Air Maroc Express\n'],33.36722°N 7.58972°W
+68,2321,small_airport,GN-B,,AF,,"-13.358499526978, 12.572699546814",SBI,GUSB,Sambailo Airport,none,12.57500°N 13.36250°W
+69,2324,large_airport,CV-B,,AF,,"-22.9494, 16.7414",SID,GVAC,Amílcar Cabral International Airport,['\nCabo Verde Airlines\nCabo Verde Express\n'],16.74250°N 22.94806°W
+70,2428,large_airport,EG-BA,,AF,,"33.799400329589844, 27.178300857543945",HRG,HEGN,Hurghada International Airport,['52\xa0ft / 16\xa0m'],27.17806°N 33.79917°E
+71,2473,large_airport,KE-300,,AF,,"39.594200134277344, -4.034830093383789",MBA,HKMO,Moi International Airport,['200\xa0ft / 61\xa0m'],4.04000°S 39.59000°E
+72,2537,large_airport,TZ-02,,AF,,"39.202599, -6.87811",DAR,HTDA,Julius Nyerere International Airport,"['Julius K. Nyerere Road', ' Terminal II', ' Dar es Salaam', ' Tanzania']",6.87806°S 39.20278°E
+73,2715,large_airport,US-NM,,,ABQ,"-106.609001, 35.040199",ABQ,KABQ,Albuquerque Regional Airport,['Albuquerque metropolitan area(Albuquerque–Santa Fe–Las Vegas CSA)'],35.039333°N 106.610778°W
+74,2739,large_airport,US-GA,,,AGS,"-81.9645004272461, 33.36989974975586",AGS,KAGS,Augusta Regional Airportat Bush Field,['144\xa0ft / 44\xa0m'],33.37000°N 81.96444°W
+75,2760,large_airport,US-TX,,,AMA,"-101.706001, 35.219398",AMA,KAMA,Rick HusbandAmarillo International Airport,"['3', '607\xa0ft / 1', '099.4\xa0m']",35.21944°N 101.70583°W
+76,2797,large_airport,US-GA,,,ATL,"-84.428101, 33.6367",ATL,KATL,Hartsfield–Jackson Atlanta International Airport,"['Atlanta', ' Georgia', ' U.S.']",33.63667°N 84.42806°W
+77,9140,small_airport,CN-52,,AS,,"109.308889, 27.883333",TEN,ZUTR,Tongren Fenghuang Airport,none,27.88333°N 109.30889°E
+78,9141,large_airport,CN-51,,AS,,"103.9469985961914, 30.578500747680664",CTU,ZUUU,Chengdu Shuangliu International Airport,['\nAir China\nChengdu Airlines\nChina Eastern Airlines\nChina Southern Airlines\nLucky Air\nShenzhen Airlines\nSichuan Airlines\nTibet Airlines\n'],30.57833°N 103.94694°E
+79,9163,large_airport,CN-65,,AS,,"87.47419738769531, 43.907100677490234",URC,ZWWW,Ürümqi DiwopuInternational Airport,['\nChina Southern Airlines\nUrumqi Air\n'],43.90722°N 87.47417°E
